@@ -20,6 +20,8 @@ function LeaderBoard(props) {
       let updatedData = [...data].sort((a, b) => a.age - b.age);
       setData(updatedData);
     }
+
+    //eslint-disable-next-line
   }, [pathName]);
 
   return (

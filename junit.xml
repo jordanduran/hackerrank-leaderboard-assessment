@@ -1,16 +1,16 @@
-<testsuites name="jest tests" tests="6" failures="0" time="2.795">
-  <testsuite name="LeaderBoard" errors="0" failures="0" skipped="0" timestamp="2021-12-14T19:40:19" time="2.795" tests="6">
-    <testcase classname="LeaderBoard should render the table and buttons" name="LeaderBoard should render the table and buttons" time="0.054">
+<testsuites name="jest tests" tests="6" failures="0" time="1.868">
+  <testsuite name="LeaderBoard" errors="0" failures="0" skipped="0" timestamp="2021-12-14T20:13:33" time="1.868" tests="6">
+    <testcase classname="LeaderBoard should render the table and buttons" name="LeaderBoard should render the table and buttons" time="0.05">
     </testcase>
-    <testcase classname="LeaderBoard should Navigate to Correct Route on button click" name="LeaderBoard should Navigate to Correct Route on button click" time="0.064">
+    <testcase classname="LeaderBoard should Navigate to Correct Route on button click" name="LeaderBoard should Navigate to Correct Route on button click" time="0.067">
     </testcase>
-    <testcase classname="LeaderBoard should Sort by Rank" name="LeaderBoard should Sort by Rank" time="0.047">
+    <testcase classname="LeaderBoard should Sort by Rank" name="LeaderBoard should Sort by Rank" time="0.054">
     </testcase>
-    <testcase classname="LeaderBoard should Sort by Name" name="LeaderBoard should Sort by Name" time="0.037">
+    <testcase classname="LeaderBoard should Sort by Name" name="LeaderBoard should Sort by Name" time="0.036">
     </testcase>
-    <testcase classname="LeaderBoard should Sort by Points" name="LeaderBoard should Sort by Points" time="0.03">
+    <testcase classname="LeaderBoard should Sort by Points" name="LeaderBoard should Sort by Points" time="0.031">
     </testcase>
-    <testcase classname="LeaderBoard should Sort by Age" name="LeaderBoard should Sort by Age" time="0.033">
+    <testcase classname="LeaderBoard should Sort by Age" name="LeaderBoard should Sort by Age" time="0.03">
     </testcase>
   </testsuite>
 </testsuites>
