@@ -48,7 +48,7 @@ function LeaderBoard(props) {
               Name
             </button>
           </Link>
-          <Link to='points'>
+          <Link to='/points'>
             <button
               data-testid='route-points'
               className='outlined'
@@ -58,7 +58,7 @@ function LeaderBoard(props) {
               Points
             </button>
           </Link>
-          <Link to='age'>
+          <Link to='/age'>
             <button
               data-testid='route-age'
               className='outlined'
